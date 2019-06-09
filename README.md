@@ -1,4 +1,4 @@
-Blueprint: Page Stack Navigation
+<!-- Blueprint: Page Stack Navigation
 =========
 
 A template for a simple page stack navigation based on the Dribbble shot by Ilya Kostin, <a href="https://dribbble.com/shots/2286042-Stacked-navigation">Stacked navigation</a>.
@@ -17,4 +17,4 @@ Read more here: [License](http://tympanus.net/codrops/licensing/)
 
 Follow us: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
 
-[© Codrops 2015](http://www.codrops.com)
+[© Codrops 2015](http://www.codrops.com) -->
